@@ -21,7 +21,7 @@ export default function Footer() {
         </a>{" "}
         and
         <a
-          href="https://github.com/MsibiD/My-weather-project."
+          href="https://kaleidoscopic-dodol-8e71bb.netlify.app/"
           rel="noreferrer"
           target="_blank"
         >
